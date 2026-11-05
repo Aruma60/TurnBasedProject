@@ -1,2 +1,0 @@
-# TurnBasedProject
-Still prototyping
